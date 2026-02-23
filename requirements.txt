@@ -1,0 +1,8 @@
+streamlit
+moviepy
+librosa
+mediapipe
+opencv-python-headless
+pydub
+imageio[ffmpeg]
+Pillow
